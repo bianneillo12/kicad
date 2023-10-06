@@ -1,0 +1,14 @@
+** Drc report for /Users/biaianneillo12/Desktop/voltage_regulated_led_new/voltage_regulated_led_new.kicad_pcb **
+** Created on 2023-09-29 16:21:34 **
+
+** Found 0 DRC violations **
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; Severity: error
+    @(154.9400 mm, 116.8400 mm): PTH pad 1 [/+9v] of J2
+    @(157.4800 mm, 116.8400 mm): PTH pad 2 [/+9v] of J2
+
+** Found 0 Footprint errors **
+
+** End of Report **
