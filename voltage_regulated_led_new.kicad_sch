@@ -1220,8 +1220,8 @@
     (property "Datasheet" "~" (at 95.25 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid cbd5ed33-ceef-4202-b4c6-ddde0214a88b))
-    (pin "2" (uuid f8ef2e14-37eb-4b57-ae51-d258bf98cd7a))
+    (pin "1" (uuid 8abee46b-baeb-467f-af9a-c69fdc07508e))
+    (pin "2" (uuid cee84938-dad3-46d4-a00b-6fdc05fde4d1))
     (instances
       (project "voltage_regulated_led_new"
         (path "/7d837360-0bad-4c76-8645-e18e924dfa75"
